@@ -55,4 +55,3 @@ Run the script:
 
 ## Author
 Rushabh ahire
-Riddhesh Gaikwad
